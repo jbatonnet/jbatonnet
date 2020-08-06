@@ -4,6 +4,10 @@ Passionate about technologies, application performance and actual results, my go
 
 I strongly believe we have to use the technology to help people and make the world better. I disapprove companies using technology only for their wealth or deliberately restraining their products capabilities.
 
+Here are a few links to follow what I'm doing outdide of GitHub:
+- [LinkedIn](https://www.linkedin.com/in/julienbatonnet/)
+- [Website](https://www.thedju.net)
+
 <!--
 **jbatonnet/jbatonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
