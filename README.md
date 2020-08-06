@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi everyone, I am Julien Batonnet 👋
+
+Passionate about technologies, application performance and actual results, my goal is to help people using what I love personally and professionally. Using my experience and a wide knowledge of technology that I expand continuously, I build targeted and forward-thinking solutions to quickly achieve results.
+
+I strongly believe we have to use the technology to help people and make the world better. I disapprove companies using technology only for their wealth or deliberately restraining their products capabilities.
 
 <!--
 **jbatonnet/jbatonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
